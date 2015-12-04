@@ -244,4 +244,6 @@ a {
 
 .cf {
   zoom:1;
+}.container #main_content h3 ul li {
+	font-family: Verdana, Geneva, sans-serif;
 }
